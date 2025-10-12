@@ -1,0 +1,11 @@
+{
+  "name": "chai-aur-react",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "npm --prefix 01vitereact run dev",
+    "build": "npm --prefix 01vitereact run build",
+    "preview": "npm --prefix 01vitereact run preview",
+    "install:all": "npm --prefix 01vitereact install"
+  }
+}
